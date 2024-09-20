@@ -6,7 +6,7 @@
     <groupId>com.mycompany.myapp</groupId>
     <artifactId>project-for-deploy</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <name>Project For Deploy</name>
     <description>Description for Project For Deploy</description>
     <parent>
